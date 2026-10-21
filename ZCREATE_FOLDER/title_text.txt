@@ -1,0 +1,18 @@
+text symbol:
+001	Main Information
+002	*Make sure MKDIR command maintained in SM69
+003	*Make sure ZDEL command maintained in SM69
+A01	WARNING!!
+W01	PROCEED WITH CAUTIONS. THIS PROGRAM IS POWERFUL AND DANGEROUS
+W02	THIS PROGRAM IS ABLE TO MANIPULATE OR EVEN BREAK SERVER DISK (AL11)
+W03	PLEASE DO NOT EXECUTE/RUN IF YOU DO NOT NEED TO.
+
+Selection text:
+FILE	File Name
+FOLDER	Folder Name
+PATH	Path
+RCMD	Terminal/CMD
+RDEL1	Delete by SM69
+RDEL2	Delete by Dataset
+RFILE	Create File
+RFOLD	Create Folder
